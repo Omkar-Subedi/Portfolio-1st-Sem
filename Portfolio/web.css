@@ -1,0 +1,61 @@
+#logo1{
+    float: left;
+}
+#navtext{
+    background-color:bisque;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 1500px;
+}
+#Home{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: red;
+}
+#Interest{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: red;
+}
+#Hobbies{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: red;
+}
+#Education{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: red;
+}
+#Gallary{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: red;
+}
+#contact{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: red;
+}
+section{
+    display: flex;
+}
+#Home:hover{
+    color: black;
+}
+#Interest:Hover{
+    color:black
+}
+#Hobbies:hover{
+    color:black
+}
+#Education:hover{
+    color:black
+}
+#Gallary:hover{
+    color:black
+}
+#contact:hover{
+    color: black;
+}
