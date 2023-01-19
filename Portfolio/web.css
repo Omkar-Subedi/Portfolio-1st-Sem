@@ -1,13 +1,15 @@
+section{
+    display: flex;
+}
 #logo1{
     float: left;
     height: 90px;
-    width: 300px;
-    background-color: bisque;
+    width: 200px;
     margin-top:-40px; 
     margin-left: 50px;
 }
 .navigation{
-    background-color:bisque;
+    background-color:rgb(91, 89, 89);
     font-size: 25px;
     text-align: center;
     width: 1500px;
@@ -20,70 +22,84 @@
 }
 #Home{
     margin-top: -50px;
-    color: red;
+    color:rgb(184, 179, 179);
 }
 #Interest{
     margin-top: -50px;
     margin-left: 70px;
-    color: red;
+    color: rgb(184, 179, 179);
 }
 #Hobbies{
     margin-top: -50px;
     margin-left: 70px;
-    color: red;
+    color: rgb(184, 179, 179);
 }
 #Education{
     margin-top: -50px;
     margin-left: 70px;
-    color: red;
+    color: rgb(184, 179, 179);
 }
 #Gallary{
     margin-top: -50px;
     margin-left: 70px;
-    color: red;
+    color: rgb(184, 179, 179);
 }
 #contact{
     margin-top: -50px;
     margin-left: 70px;
-    color: red;
+    color: rgb(184, 179, 179);
 }
 section{
     display: flex;
 }
 #Home:hover{
-    color: black;
+    color: blue;
 }
 #Interest:Hover{
-    color:black
+    color: blue;
 }
 #Hobbies:hover{
-    color:black
+    color: blue;
+
 }
 #Education:hover{
-    color:black
+    color: blue;
 }
 #Gallary:hover{
-    color:black
+    color: blue;
 }
 #contact:hover{
-    color: black;
+    color: blue;
 }
 #textthree{
     flex: 3;
     height: 700px;
-    background-color: aquamarine;
     margin-top: 100px;
+    background-color:wheat;
 }
 #ImageOne{
     flex: 2;
     height: 700px;
-    background-color: blueviolet;
     margin-top: 100px;
 }
 .Imageone{
     height: 700px;
     width: 600px;
 }
-section{
-    display: flex;
+header{
+    text-align: justify;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 70px;
+    color: black;
+}
+#abouttext1{
+    font-size: 25px;
+    margin-top: 70px;
+    margin-left: 70px;
+    margin-right: 50px;
+    color:brown;
+    text-align: justify;
+
 }

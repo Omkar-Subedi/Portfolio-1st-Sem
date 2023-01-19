@@ -2,12 +2,11 @@
     float: left;
     height: 90px;
     width: 300px;
-    background-color: bisque;
     margin-top:-40px; 
     margin-left: 50px;
 }
 .navigation2{
-    background-color:bisque;
+    background-color:rgb(91, 89, 89);
     font-size: 25px;
     text-align: center;
     width: 1500px;
@@ -19,53 +18,51 @@
 }
 #Home{
     margin-top: -50px;
-    color: red;
+    color:rgb(184, 179, 179);
 }
 #Interest{
     margin-top: -50px;
     margin-left: 70px;
-    color: red;
+    color: rgb(184, 179, 179);
 }
 #Hobbies{
     margin-top: -50px;
     margin-left: 70px;
-    color: red;
+    color: rgb(184, 179, 179);
 }
 #Education{
     margin-top: -50px;
     margin-left: 70px;
-    color: red;
+    color: rgb(184, 179, 179);
 }
 #Gallary{
     margin-top: -50px;
     margin-left: 70px;
-    color: red;
+    color: rgb(184, 179, 179);
 }
 #contact{
     margin-top: -50px;
     margin-left: 70px;
-    color: red;
+    color: rgb(184, 179, 179);
 }
 section{
     display: flex;
 }
 #Home:hover{
-    color: black;
+    color: blue;
 }
 #Interest:Hover{
-    color:black
+    color: blue;
 }
 #Hobbies:hover{
-    color:black
+    color: blue;
+
 }
 #Education:hover{
-    color:black
+    color: blue;
 }
 #Gallary:hover{
-    color:black
-}
-#contact:hover{
-    color: black;
+    color: blue;
 }
 #textthree{
     flex: 3;
