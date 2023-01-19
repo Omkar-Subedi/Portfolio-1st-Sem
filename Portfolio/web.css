@@ -1,16 +1,24 @@
 #logo1{
     float: left;
+    height: 90px;
+    width: 300px;
+    background-color: bisque;
+    margin-top:-40px; 
+    margin-left: 50px;
 }
-#navtext{
+.navigation{
     background-color:bisque;
-    font-size: 30px;
-    font-weight: bold;
+    font-size: 25px;
     text-align: center;
     width: 1500px;
+    height: 100px;
+}
+#nav2{
+    margin-top:40px;
+    justify-content: center;
 }
 #Home{
     margin-top: -50px;
-    margin-left: 70px;
     color: red;
 }
 #Interest{
