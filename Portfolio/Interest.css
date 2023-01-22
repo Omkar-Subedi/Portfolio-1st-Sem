@@ -10,7 +10,9 @@
     font-size: 25px;
     text-align: center;
     width: 1500px;
-    height: 100px;
+    height: 102px;
+    position: fixed;
+    margin-top: -7px;
 }
 #nav3{
     margin-top:40px;
@@ -84,6 +86,87 @@ section{
     height: 600px;
     width: 600px;
 }
-section{
-    display: flex;
+#picture{
+    flex: 1;
+    height: 700px;
+    margin-top: 95px;
+}
+#picedit{
+    height: 700px;
+    width: 729px;
+}
+#text{
+    flex: 1;
+    background-color:rgba(36, 35, 34, 0.914);
+    height: 700px;
+    margin-top: 95px;
+}
+#textedit{
+    color: red;
+    font-size: 55px;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 90px;
+    text-align:center;
+    font-variant:small-caps;
+}
+#textedit:hover{
+    color:yellow;
+}
+#picturetwo{
+    flex: 1;
+    background-color: rgba(36, 35, 34, 0.914);
+    height: 700px;
+}
+#picturetwoedit{
+    width: 725px;
+    height: 700px;
+}
+#texttwo{
+    flex: 1;
+    background-color: rgba(36, 35, 34, 0.914);
+    height: 700px;
+    color:rgb(193, 40, 40);
+}
+#texttwoedit{
+    margin-top: 55px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 33px;
+    text-align: justify;
+    font-style: oblique;
+}
+.footone{
+    background-color: rgb(91, 89, 89);
+    flex: 3;
+    height: 250px;
+}
+#last2{
+    height: 150px;
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#facebook{
+    margin-top: -150px;
+    height: 60px;
+    width: 80px;
+    margin-left: 350px;
+}
+#youtube{
+    margin-top: -150px;
+    height: 60px;
+    width: 80px;
+    margin-left: 70px;
+
+}
+#linkedin{
+    margin-top: -150px;
+    height: 60px;
+    width: 80px;
+    margin-left: 70px;
+}
+.fotedit{
+    margin-top: -50px;
+    justify-content: center;
 }

@@ -13,8 +13,9 @@ section{
     font-size: 25px;
     text-align: center;
     width: 1500px;
-    height: 100px;
+    height: 105px;
     position: fixed;
+    margin-top: -7px;
 }
 #nav2{
     margin-top:40px;
@@ -165,5 +166,8 @@ header{
     height: 60px;
     width: 80px;
     margin-left: 70px;
+}
+.fotedit{
+    margin-top: -50px;
     justify-content: center;
 }
