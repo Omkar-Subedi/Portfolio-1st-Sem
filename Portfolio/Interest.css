@@ -90,6 +90,7 @@ section{
     flex: 1;
     height: 700px;
     margin-top: 95px;
+    background-color: rgba(36, 35, 34, 0.914);
 }
 #picedit{
     height: 700px;
@@ -102,7 +103,7 @@ section{
     margin-top: 95px;
 }
 #textedit{
-    color: red;
+    color:rgb(243, 227, 198);
     font-size: 55px;
     margin-top: 150px;
     margin-left: 100px;
@@ -126,7 +127,7 @@ section{
     flex: 1;
     background-color: rgba(36, 35, 34, 0.914);
     height: 700px;
-    color:rgb(193, 40, 40);
+    color:rgb(243, 227, 198);
 }
 #texttwoedit{
     margin-top: 55px;

@@ -72,3 +72,22 @@ section{
 #Gallary:hover{
     color: blue;
 }
+#boxone{
+    flex: 1;
+    background-color: red;
+    height: 600px;
+}
+#boxtwo{
+    flex: 1;
+    background-color: antiquewhite;
+    height: 600px;
+}
+#boxthree{
+    flex: 1;
+    background-color: blue;
+    height: 600px;
+}
+#book{
+    height: 600px;
+    width: 700px;
+}
