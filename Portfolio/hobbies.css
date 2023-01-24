@@ -58,36 +58,51 @@ section{
 }
 #Home:hover{
     color: blue;
+    font-size: 30px;
 }
 #Interest:Hover{
     color: blue;
+    font-size: 30px;
 }
 #Hobbies:hover{
     color: blue;
-
+    font-size: 30px;
 }
 #Education:hover{
     color: blue;
+    font-size: 30px;
 }
 #Gallary:hover{
     color: blue;
+    font-size: 30px;
+}
+#contact:hover{
+    color: blue;
+    font-size: 30px;
 }
 #boxone{
     flex: 1;
-    background-color: red;
-    height: 600px;
+    background-color: #85572f;
+    height: 500px;
+    margin-top: 92px;
 }
 #boxtwo{
     flex: 1;
     background-color: antiquewhite;
-    height: 600px;
+    height: 500px;
+    margin-top: 92px;
 }
 #boxthree{
     flex: 1;
     background-color: blue;
-    height: 600px;
+    height: 500px;
+    margin-top: 92px;
 }
 #book{
-    height: 600px;
-    width: 700px;
+    height: 500px;
+    width: 500px;
+}
+#book:hover{
+    height: 450px;
+    width: 450px;
 }
