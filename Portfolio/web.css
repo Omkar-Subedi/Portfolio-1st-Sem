@@ -179,3 +179,63 @@ header{
     margin-top: -60px;
     justify-content: center;
 }
+/*Mobile*/
+@media screen and (max-width: 480px) {
+    .navigation{
+        background-color: black;
+        color: white;
+    }
+    header{
+        background-color: white;
+        color: black;
+    }
+    #textthree{
+        background-color: white;
+        color: black;
+    }
+    #blogtext{
+        background-color: white;
+        color: black;
+    }
+    #textfour{
+        background-color: white;
+        color: black;
+    }
+    h1{
+        background-color: white;
+        color: black;
+    }
+}
+
+/*Tablet*/
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .navigation{
+        background-color: black;
+        color: white;
+    }
+    header{
+        background-color: black;
+        color: white;
+    }
+        
+    #textthree{
+        background-color: black;
+        color: white;
+    }
+        
+    #blogtext{
+        background-color: black;
+        color: white;
+    }
+        
+    #textfour{
+        background-color: black;
+        color: white;
+    }
+
+    h1{
+        background-color: black;
+        color: white;
+    }
+    
+}

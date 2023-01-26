@@ -1,0 +1,205 @@
+section{
+    display: flex;
+}
+#logo1{
+    float: left;
+    height: 90px;
+    width: 150px;
+    margin-top:-40px; 
+    margin-left: 50px;
+}
+.navigation{
+    background-color:rgb(91, 89, 89);
+    font-size: 25px;
+    text-align: center;
+    width: 1500px;
+    height: 105px;
+    position: fixed;
+    margin-top: -7px;
+}
+#nav2{
+    margin-top:40px;
+    justify-content: center;
+}
+#Home{
+    margin-top: -50px;
+    color:rgb(184, 179, 179);
+    text-decoration: none;
+}
+#Interest{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: rgb(184, 179, 179);
+    text-decoration: none;
+}
+#Education{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: rgb(184, 179, 179);
+    text-decoration: none;
+}
+#Gallary{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: rgb(184, 179, 179);
+    text-decoration: none;
+}
+#contact{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: rgb(184, 179, 179);
+    text-decoration: none;
+}
+#Reference{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: rgb(184, 179, 179);
+    text-decoration: none;
+}
+section{
+    display: flex;
+}
+#Home:hover{
+    color: blue;
+    font-size: 30px;
+}
+#Interest:Hover{
+    color: blue;
+    font-size: 30px;
+}
+#Education:hover{
+    color: blue;
+    font-size: 30px;
+}
+#Gallary:hover{
+    color: blue;
+    font-size: 30px;
+}
+#contact:hover{
+    color: blue;
+    font-size: 30px;
+}
+#Reference:hover{
+    color: blue;
+    font-size: 30px;
+}
+.uphead{
+    text-align: center;
+    margin-top: 150px;
+    color: rgb(184, 179, 179);
+}
+#tel{
+    font-size: 20px;
+    color: rgb(184, 179, 179);
+}
+#mail{
+    font-size: 20px;
+    color: rgb(184, 179, 179);
+}
+#address{
+    font-size: 20px;
+    color: rgb(184, 179, 179);
+}
+#box1{
+    flex: 1;
+    margin-left: 50px;
+    margin-top: 30px;  
+}
+#inputnametxt{
+    color: rgb(184, 179, 179);
+}
+#inputname{
+    height: 40px;
+    width: 500px;
+    background-color: rgb(227, 227, 210);
+}
+#inputmailtxt{
+    margin-top: 30px;
+    color: rgb(184, 179, 179);
+}
+#inputmail{
+    margin-left: 34px;
+    margin-top: 30px;
+    height: 40px;
+    width: 500px;
+    background-color: rgb(227, 227, 210);
+}
+#inputphonetxt{
+    margin-top: 30px;
+    color: rgb(184, 179, 179);
+}
+#inputphone{
+    margin-left: 34px;
+    margin-top: 30px;
+    height: 40px;
+    width: 500px;
+    background-color: rgb(227, 227, 210);
+}
+#box2{
+    flex: 1;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#inputmessagetxt{
+    margin-top: -100px;
+    color: rgb(184, 179, 179);
+}
+#inputmessage{
+    height: 200px;
+    width: 500px;
+    background-color: rgb(227, 227, 210);
+}
+body{
+    background-color: rgb(47, 41, 41);
+}
+#box3{
+    margin-top: 40px;
+}
+#box3value{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 150px;
+    background-color: blue;
+    color: rgb(184, 179, 179);
+}
+#box3value:hover{
+    background-color: red;
+    color: black;
+}
+.footone{
+    background-color: rgb(91, 89, 89);
+    flex: 3;
+    height: 250px;
+    margin-top: 100px;
+}
+#last2{
+    height: 150px;
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#facebook{
+    margin-top: -130px;
+    height: 80px;
+    width: 100px;
+    margin-left: 350px;
+}
+#youtube{
+    margin-top: -150px;
+    height: 80px;
+    width: 80px;
+    margin-left: 70px;
+
+}
+#linkedin{
+    margin-top: -100px;
+    height: 100px;
+    width: 100px;
+    margin-left: 70px;
+}
+.fotedit{
+    margin-top: -60px;
+    justify-content: center;
+}
