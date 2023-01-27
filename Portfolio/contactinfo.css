@@ -60,27 +60,27 @@ section{
     display: flex;
 }
 #Home:hover{
-    color: blue;
+    color: gold;
     font-size: 30px;
 }
 #Interest:Hover{
-    color: blue;
+     color: gold;
     font-size: 30px;
 }
 #Education:hover{
-    color: blue;
+     color: gold;
     font-size: 30px;
 }
 #Gallary:hover{
-    color: blue;
+     color: gold;
     font-size: 30px;
 }
 #contact:hover{
-    color: blue;
+     color: gold;
     font-size: 30px;
 }
 #Reference:hover{
-    color: blue;
+     color: gold;
     font-size: 30px;
 }
 .uphead{
@@ -202,4 +202,39 @@ body{
 .fotedit{
     margin-top: -60px;
     justify-content: center;
+}
+
+/*Mobile*/
+@media screen and (max-width: 480px){
+    .navigation{
+        background-color: black;
+        color: white;
+    }
+    body{
+        background-color: gray;
+    }
+    .uphead{
+        color: gold;
+    }
+    #tel{
+        color: gold;
+    }
+    #mail{
+        color: gold;
+    }
+    #address{
+        color: gold;
+    }
+    #inputnametxt{
+        color: violet;
+    }
+    #inputmailtxt{
+        color: violet;
+    }
+    #inputphonetxt{
+        color: violet;
+    }
+    #inputmessagetxt{
+        color: violet;
+    }
 }

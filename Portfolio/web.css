@@ -60,27 +60,27 @@ section{
     display: flex;
 }
 #Home:hover{
-    color: blue;
+    color: gold;
     font-size: 30px;
 }
 #Interest:Hover{
-    color: blue;
+    color: gold;
     font-size: 30px;
 }
 #Education:hover{
-    color: blue;
+    color: gold;
     font-size: 30px;
 }
 #Gallary:hover{
-    color: blue;
+    color: gold;
     font-size: 30px;
 }
 #contact:hover{
-    color: blue;
+    color: gold;
     font-size: 30px;
 }
 #Reference:hover{
-    color: blue;
+    color: gold;
     font-size: 30px;
 }
 #textthree{
@@ -171,7 +171,7 @@ header{
 }
 #linkedin{
     margin-top: -100px;
-    height: 100px;
+    hecolor: gold;
     width: 100px;
     margin-left: 70px;
 }
@@ -205,37 +205,4 @@ header{
         background-color: white;
         color: black;
     }
-}
-
-/*Tablet*/
-@media screen and (min-width: 481px) and (max-width: 768px) {
-    .navigation{
-        background-color: black;
-        color: white;
-    }
-    header{
-        background-color: black;
-        color: white;
-    }
-        
-    #textthree{
-        background-color: black;
-        color: white;
-    }
-        
-    #blogtext{
-        background-color: black;
-        color: white;
-    }
-        
-    #textfour{
-        background-color: black;
-        color: white;
-    }
-
-    h1{
-        background-color: black;
-        color: white;
-    }
-    
 }
