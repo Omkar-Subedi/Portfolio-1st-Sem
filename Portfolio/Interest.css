@@ -98,22 +98,24 @@ section{
     flex: 1;
     height: 600px;
     margin-top: 95px;
+    margin-left: 100px;
     background-color: rgba(36, 35, 34, 0.914);
 }
 #picedit{
     height: 600px;
-    width: 729px;
+    width: 600px;
 }
 #text{
     flex: 1;
     background-color:rgba(36, 35, 34, 0.914);
     height: 600px;
     margin-top: 95px;
+    margin-right: 100px;
 }
 #textedit{
     color:rgb(243, 227, 198);
     font-size: 50px;
-    margin-top: 150px;
+    margin-top: 100px;
     margin-left: 100px;
     margin-right: 90px;
     text-align:center;
@@ -128,19 +130,22 @@ section{
     flex: 1;
     background-color: rgba(36, 35, 34, 0.914);
     height: 700px;
+    margin-right: 100px;
 }
 #picturetwoedit{
-    width: 725px;
+    width: 655px;
     height: 800px;
+    margin-left: 50px;
 }
 #texttwo{
     flex: 1;
     background-color: rgba(36, 35, 34, 0.914);
     height: 700px;
     color:rgb(243, 227, 198);
+    margin-left: 100px;
 }
 #texttwoedit{
-    margin-top: 100px;
+    margin-top: 30px;
     margin-left: 50px;
     margin-right: 50px;
     font-size: 30px;
@@ -198,4 +203,7 @@ section{
     .footone{
         background-color: black;
     }
+}
+body{
+    background-color: rgb(91, 89, 89);
 }
