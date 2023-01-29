@@ -38,6 +38,12 @@ section{
     color: rgb(184, 179, 179);
     text-decoration: none;
 }
+#CV{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: rgb(184, 179, 179);
+    text-decoration: none;
+}
 #Gallary{
     margin-top: -50px;
     margin-left: 70px;
@@ -69,6 +75,10 @@ section{
 }
 #Education:hover{
      color: gold;
+    font-size: 30px;
+}
+#CV:hover{
+    color: gold;
     font-size: 30px;
 }
 #Gallary:hover{
