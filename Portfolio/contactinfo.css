@@ -214,37 +214,14 @@ body{
     justify-content: center;
 }
 
-/*Mobile*/
-@media screen and (max-width: 480px){
-    .navigation{
-        background-color: black;
-        color: white;
-    }
-    body{
-        background-color: gray;
-    }
-    .uphead{
-        color: gold;
-    }
-    #tel{
-        color: gold;
-    }
-    #mail{
-        color: gold;
-    }
-    #address{
-        color: gold;
-    }
-    #inputnametxt{
-        color: violet;
-    }
-    #inputmailtxt{
-        color: violet;
-    }
-    #inputphonetxt{
-        color: violet;
-    }
-    #inputmessagetxt{
-        color: violet;
-    }
-}
+
+
+
+
+
+
+
+
+
+
+

@@ -193,3 +193,144 @@ header{
     margin-top: -60px;
     justify-content: center;
 }
+
+
+
+
+
+
+/*Tablet*/
+@media only screen and (min-width: 481px) and (max-width: 768px){
+    .navigation {
+        background-color: black;
+        font-size: 16px;
+        text-align: center;
+        width: 730px;
+        height: 100px;
+        position: fixed;
+        margin-top: -7px;
+    }
+    #Interest {
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #Education{
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #CV{
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #Gallary{
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #contact{
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #Reference{
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #textthree {
+        flex: 3;
+        height: 700px;
+        margin-top: 100px;
+        background-color: pink;
+        margin-left: 0px;
+    }
+    .Imageone {
+        height: 700px;
+        width: 525px;
+    }
+    header{
+        text-align: justify;
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 50px;
+        margin-left: 50px;
+        color: black;
+        margin-right: 30px;
+    }
+    #abouttext1 {
+        font-size: 15px;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        color: brown;
+        text-align: justify;
+        font-style: oblique;
+    }
+    #textfour {
+        background-color: pink;
+        flex: 1;
+        height: 600px;
+        margin-left: 0px;
+    }
+    .four {
+        margin-left: 50px;
+        font-size: 30px;
+        font-variant: small-caps;
+        text-align: justify;
+        margin-top: 150px;
+    }
+      
+    #blog1 {
+    flex: 1;
+    height: 600px;
+    background-color: pink;
+    margin-right: 00px;
+    }
+    #blogtext {
+        margin-left: 20px;
+        margin-right: 50px;
+        font-size: 15px;
+        text-align: justify;
+        font-style: oblique;
+        color: brown;
+    }
+    .footone{
+        background-color: rgb(91, 89, 89);
+        flex: 3;
+        height: 250px;
+    }
+    #last2 {
+        height: 150px;
+        width: 150px;
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+    #youtube {
+        margin-top: -150px;
+        height: 50px;
+        width: 60px;
+        margin-left: 80px;
+    }
+    
+    #linkedin {
+    margin-top: -80px;
+    width: 100px;
+    margin-left: 200px;
+    }
+    #facebook {
+        margin-top: -130px;
+        height: 70px;
+        width: 70px;
+        margin-left: 350px;
+    }
+    
+}    
