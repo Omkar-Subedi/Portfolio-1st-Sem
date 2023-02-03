@@ -221,6 +221,140 @@ body{
 
 
 
+/*Tablet*/
+@media only screen and (min-width: 481px) and (max-width: 768px){
+    .navigation {
+        background-color: black;
+        font-size: 16px;
+        text-align: center;
+        width: 730px;
+        height: 100px;
+        position: fixed;
+        margin-top: -7px;
+    }
+    #Interest {
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #Education{
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #CV{
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #Gallary{
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #contact{
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #Reference{
+        margin-top: -50px;
+        margin-left: 20px;
+        color: rgb(184, 179, 179);
+        text-decoration: none;
+    }
+    #tel{
+        font-size: 15px;
+        color: rgb(184, 179, 179);
+    }
+    #mail{
+        font-size: 15px;
+        color: rgb(184, 179, 179);
+    }
+    #address{
+        font-size: 15px;
+        color: rgb(184, 179, 179);
+    }
+    #box1{
+        flex: 1;
+        margin-left: 10px;
+        margin-top: 30px;  
+    }
+    #inputname{
+        height: 30px;
+        width: 200px;
+        background-color: rgb(227, 227, 210);
+    }
+    #inputmail{
+        margin-left: 0px;
+        margin-top: 30px;
+        height: 30px;
+        width: 200px;
+        background-color: rgb(227, 227, 210);
+    }
+    #inputphone{
+        margin-left: 0px;
+        margin-top: 30px;
+        height: 40px;
+        width: 200px;
+        background-color: rgb(227, 227, 210);
+    }
+    #box2{
+        flex: 1;
+        margin-top: 30px;
+        margin-left: 40px;
+    }
+    #inputmessagetxt{
+        margin-top: -100px;
+        color: rgb(184, 179, 179);
+    }
+    #inputmessage{
+        height: 200px;
+        width: 400px;
+        background-color: rgb(227, 227, 210);
+    }
+    .footone{
+        background-color: rgb(91, 89, 89);
+        flex: 3;
+        height: 250px;
+    }
+    #last2 {
+        height: 150px;
+        width: 150px;
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+    #youtube {
+        margin-top: -150px;
+        height: 50px;
+        width: 60px;
+        margin-left: 80px;
+    }
+    #linkedin {
+    margin-top: -80px;
+    width: 100px;
+    margin-left: 200px;
+    }
+    #facebook {
+        margin-top: -130px;
+        height: 70px;
+        width: 70px;
+        margin-left: 350px;
+    }
+} 
+
+
+
+
+
+
+
+
 
 
 
